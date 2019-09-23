@@ -1,0 +1,1 @@
+# openSUSE Asia Summit 2019 Class - Terraform on Linode
