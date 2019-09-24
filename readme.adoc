@@ -1,1 +1,10 @@
 # openSUSE Asia Summit 2019 Class - Terraform on Linode
+
+This is a GitHub Repository to learning about terraform in My Class on openSUSE.Asia Summit. Bali, Indonesia. 
+
+In this class we are going to learning about terraform, spesifically in Linode. We will use openSUSE Leap 15.1 Image on Linode. And i will explain about 4 basic configuration on terraform:
+
+* Deploy openSUSE Leap 15 instance with Terraform using basic file
+* Deploy openSUSE Leap 15 instance with Terraform using variable on separate file
+* Deploy openSUSE Leap 15 instance and application with Terraform using StackScript
+* Deploy openSUSE Leap 15 instance and application using remote-exec provision 
