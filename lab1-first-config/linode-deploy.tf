@@ -1,5 +1,5 @@
 provider "linode" {
-    token = "bc6789170321fc810bf3d9ec0debcb7ae676eadb881d86755dea6585a132bdaa"
+    token = "YOUR TOKEN HERE"
 }
 
 resource "linode_sshkey" "opensusekey" {
