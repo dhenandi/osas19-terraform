@@ -1,3 +1,4 @@
 */.terraform
 presentation/icon-picture
 presentation/template
+presentation/*.lock*
